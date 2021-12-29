@@ -1,5 +1,5 @@
 ### Euro Food Group
-Live Link: http://localhost:3000/home#home
+Live Link: https://euro-food-group.web.app/
 
 ## Used Stack
 - React

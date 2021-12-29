@@ -1,0 +1,5 @@
+.hover:hover{
+    background-color: green !important;
+    color: white;
+    transition: .3s ease-in;
+}

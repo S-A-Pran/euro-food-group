@@ -1,0 +1,9 @@
+.contain{
+  background-color: darkgray;
+}
+
+.contain-img{
+    width:100%;
+    height:400px;
+    mix-blend-mode: darken;
+}

@@ -6,4 +6,5 @@ Live Link: http://localhost:3000/home#home
 - Bootstrap
 - Email js
 - Aos
-- Css
+- CSS
+- HTML
